@@ -1,0 +1,17 @@
+.collection-section {
+
+	.hentry {
+
+		.hentry-inner {
+			position: relative;
+
+			.product-container {
+				left: 42px;
+			    position: absolute;
+			    text-align: left;
+			    top: 42px;
+			    overflow: hidden;
+			}
+		}
+	}
+}

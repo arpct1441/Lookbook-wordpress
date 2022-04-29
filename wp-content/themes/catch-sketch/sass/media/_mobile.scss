@@ -1,0 +1,9 @@
+@include media(mobile) {
+    .header-top-bar .header-top-content {
+        flex-direction: row;
+	}
+
+	.home.has-header-video .site .custom-header {
+	    min-height: calc(100vh - 460px);
+	}
+}
